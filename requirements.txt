@@ -1,0 +1,4 @@
+google-genai
+PySide6
+openpyxl
+fpdf2

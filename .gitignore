@@ -1,0 +1,21 @@
+config.json
+verification.db
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+installer_output/
+
+# Generated artifacts
+Daily_Progress_Report.pptx
+LedgerLens_Presentation_Script.pdf
+ppt_screenshot*.png
+daily_ppts/*.pptx
+
+# Sample source images (contain real client data)
+1000138302.jpg
+1000138303.jpg
+
+# Local editor/tool settings
+.claude/settings.local.json
