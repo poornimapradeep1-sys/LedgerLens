@@ -10,8 +10,8 @@ architecture, field schema, and scope decisions.
 ## Download & Install (Windows)
 
 1. **Download the installer:**
-   [LedgerLensSetup.exe](https://github.com/poornimapradeep1-sys/LedgerLens/releases/download/v1.0.0/LedgerLensSetup.exe)
-   (latest release: [v1.0.0](https://github.com/poornimapradeep1-sys/LedgerLens/releases/tag/v1.0.0))
+   [LedgerLensSetup.exe](https://github.com/poornimapradeep1-sys/LedgerLens/releases/download/v1.0.1/LedgerLensSetup.exe)
+   (latest release: [v1.0.1](https://github.com/poornimapradeep1-sys/LedgerLens/releases/tag/v1.0.1))
 
    Requires 64-bit Windows 10/11. Not available for Mac/Linux.
 
