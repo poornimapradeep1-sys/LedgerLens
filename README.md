@@ -7,6 +7,35 @@ through chat logs. Updated after every meaningful change.
 See [PROJECT_SCOPE.md](PROJECT_SCOPE.md) for the problem statement,
 architecture, field schema, and scope decisions.
 
+## Download & Install (Windows)
+
+1. **Download the installer:**
+   [LedgerLensSetup.exe](https://github.com/poornimapradeep1-sys/LedgerLens/releases/download/v1.0.0/LedgerLensSetup.exe)
+   (latest release: [v1.0.0](https://github.com/poornimapradeep1-sys/LedgerLens/releases/tag/v1.0.0))
+
+   Requires 64-bit Windows 10/11. Not available for Mac/Linux.
+
+2. **Get past the "unsigned app" warnings** — expected, not a sign of a
+   problem, since the installer isn't code-signed yet:
+   - If your browser holds it as `Unconfirmed ####.crdownload`, click
+     the download bar's arrow and choose **Keep** / **Keep dangerous
+     file**.
+   - Windows SmartScreen will likely show *"Windows protected your
+     PC"* on first run — click **More info → Run anyway**.
+
+3. **Run the installer** and follow the setup wizard (Start Menu
+   shortcut + optional desktop icon).
+
+4. **Get a free Gemini API key** at
+   [aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+   — sign in with any Google account and generate one. LedgerLens
+   prompts for this on first launch and saves it locally
+   (`config.json`); it's per-installation, never bundled or shared.
+
+5. Launch LedgerLens from the Start Menu / desktop shortcut. Each
+   install keeps its own local database and settings, independent of
+   any other machine running it.
+
 ## Log
 
 ### 2026-09-11 — Reset & re-scoped
